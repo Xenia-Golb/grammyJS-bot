@@ -1,2 +1,2 @@
-# bot_grammyJS
-# grammyJS-bot
+# Разработка тг-бота с использованием библиотеки grammyJS, без диплоя на сервер.
+# Ссылка на бота: https://t.me/Golbraykh_bot
